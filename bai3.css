@@ -1,0 +1,30 @@
+.a3{
+  color: #1C1C1C;
+}
+.box{
+  width: 1332px;
+  height: 420px;
+}
+.leftBox{
+  float: left;
+  width: 666px;
+  height: 420px;
+}
+.rightBox{
+  width: 666px;
+  height: 420px;
+  float: right;
+  
+}
+.Child{
+  float: right;
+}
+.if{
+   margin-top: 55px;
+}
+#it{
+    margin-left: 20px;
+}
+.it1{
+    margin-right: 20px;
+}
